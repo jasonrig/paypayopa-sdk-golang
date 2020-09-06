@@ -17,8 +17,8 @@
 package preauthorize
 
 import (
-	"paypayopa-sdk/api"
-	"paypayopa-sdk/request"
+	"github.com/jasonrig/paypayopa-sdk-golang/api"
+	"github.com/jasonrig/paypayopa-sdk-golang/request"
 )
 
 // API Endpoint: Post /v2/payments/preauthorize

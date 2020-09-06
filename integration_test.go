@@ -18,10 +18,10 @@ package paypayopa_sdk_golang
 
 import (
 	"github.com/google/uuid"
+	"github.com/jasonrig/paypayopa-sdk-golang/api"
+	"github.com/jasonrig/paypayopa-sdk-golang/api/v2/codes"
+	"github.com/jasonrig/paypayopa-sdk-golang/request"
 	"net/http"
-	"paypayopa-sdk/api"
-	"paypayopa-sdk/api/v2/codes"
-	"paypayopa-sdk/request"
 	"testing"
 )
 

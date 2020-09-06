@@ -17,8 +17,8 @@
 package api
 
 import (
+	"github.com/jasonrig/paypayopa-sdk-golang/request"
 	"net/url"
-	"paypayopa-sdk/request"
 )
 
 type Requester interface {

@@ -18,9 +18,9 @@ package codes
 
 import (
 	"fmt"
+	"github.com/jasonrig/paypayopa-sdk-golang/api"
+	"github.com/jasonrig/paypayopa-sdk-golang/request"
 	"net/url"
-	"paypayopa-sdk/api"
-	"paypayopa-sdk/request"
 )
 
 // API Endpoint: Delete /v2/codes/{codeId}

@@ -17,9 +17,9 @@
 package authorizations
 
 import (
+	"github.com/jasonrig/paypayopa-sdk-golang/api"
+	"github.com/jasonrig/paypayopa-sdk-golang/request"
 	"net/url"
-	"paypayopa-sdk/api"
-	"paypayopa-sdk/request"
 	"reflect"
 	"testing"
 )
