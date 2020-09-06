@@ -1,4 +1,4 @@
-module paypayopa-sdk
+module github.com/jasonrig/paypayopa-sdk-golang
 
 go 1.14
 
